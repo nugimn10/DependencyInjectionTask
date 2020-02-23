@@ -1,0 +1,6 @@
+C:\Users\Nugi\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Nugi\DependencyInjection\obj\Debug\netcoreapp3.1\staticwebassets\DependencyInjection.StaticWebAssets.Manifest.cache
+C:\Users\Nugi\DependencyInjection\obj\Debug\netcoreapp3.1\staticwebassets\DependencyInjection.StaticWebAssets.xml
+C:\Users\Nugi\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nugi\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Nugi\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
